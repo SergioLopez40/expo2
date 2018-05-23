@@ -16,3 +16,8 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+# Expo2
+## Aqui tenemos el proyecto creado hace dos meses aproximadamente durante la exposicion numero 2
+
+![Screenshot](expo2.png)
